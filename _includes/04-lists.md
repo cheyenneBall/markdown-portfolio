@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Wake up 
+2. Brush Teeth 
+3. Make breakfast
